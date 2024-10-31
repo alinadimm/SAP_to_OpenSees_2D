@@ -1,0 +1,22 @@
+ SAP2000 v20.2.0 Ultimate 32-bit (Analysis Build 9663/32)                       
+ File: D:\MY FILES\Courses\Omr...es\Project\Phase_1\SAP2000\5ST-Period&Drift.OUT
+                                                                     
+                                                                       
+
+ D I S P L A C E M E N T   D E G R E E S   O F   F R E E D O M
+
+         (A) = Active DOF, equilibrium equation
+         (-) = Restrained DOF, reaction computed
+         (+) = Constrained DOF
+         (>) = External substructure DOF
+         ( ) = Null DOF
+
+  JOINTS              UX  UY  UZ  RX  RY  RZ
+       1               -   -   -   -   -   -
+       2 TO       6    A       A       A    
+       7               -   -   -   -   -   -
+       8 TO      12    A       A       A    
+      13               -   -   -   -   -   -
+      14 TO      18    A       A       A    
+      19               -   -   -   -   -   -
+      20 TO      75    A       A       A    
